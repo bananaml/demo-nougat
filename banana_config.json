@@ -1,0 +1,20 @@
+{
+    "version": 1,
+    "inputs": [
+        {
+            "name": "pdf",
+            "type": "file",
+            "mimes": ["pdf"],
+            "required": true
+        }
+    ],
+    "output": {
+        "result": {
+            "type": "string",
+            "description": "The generated content.",
+            "path": "outputs"
+        }
+    }
+}
+
+
