@@ -2,9 +2,9 @@
     "version": 1,
     "inputs": [
         {
-            "name": "pdf",
+            "name": "image",
             "type": "file",
-            "mimes": ["pdf"],
+            "mimes": ["image/pdf"],
             "required": true
         }
     ],
