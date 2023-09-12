@@ -2,7 +2,7 @@
     "version": 1,
     "inputs": [
         {
-            "name": "image",
+            "name": "pdf_link",
             "type": "file",
             "mimes": ["image/pdf"],
             "required": true
